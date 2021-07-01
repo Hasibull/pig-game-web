@@ -8,4 +8,4 @@ Pig is a simple dice game first described in print by John Scarne in 1945. Playe
 - If the player rolls any other number, it is added to their turn total and the player's turn continues.
 - If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn.
 
-Click **Here** to play!! :)
+Click [**Here**](https://goofy-rosalind-cf3fb0.netlify.app/) to play!! :)
